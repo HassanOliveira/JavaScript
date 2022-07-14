@@ -1,0 +1,22 @@
+.home {
+    background-color: rgba(0, 0, 0, 0.822);
+    background-image: url("/assets/img/matrix2-60.gif");
+    background-size: contain;
+    background-attachment: fixed;
+    background-blend-mode: multiply;
+    color: white;
+    width: 100%;
+    height: 102vh;
+}
+
+h1:after{
+    animation: cursor 0.4s infinite;
+}
+
+  /* The typewriter cursor effect */
+@keyframes cursor {
+    0% { opacity: 1; }
+    49% { opacity: 1; }
+    50% { opacity: 0; }
+    100% { opacity: 0; }
+}

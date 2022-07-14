@@ -1,0 +1,6 @@
+.menu {
+    position:fixed;
+    top: 50%;
+    transform: translate(0%, -50%);
+    padding-left: 2rem;
+}

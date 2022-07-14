@@ -1,0 +1,52 @@
+.foto1 {
+    position: relative;
+    left: 901px;
+    bottom: 890px;
+    width: 332.16px;
+    height: 326.6px;
+    transform: matrix(0.96, 0.25, -0.25, 0.97, 0, 0);
+}
+    
+.retangulo1 {
+    position: relative;
+    left: 1250px;
+    bottom: 880px;
+    width: 355.88px;
+    height: 349.93px;
+    background: #EFA34B;
+    transform: matrix(0.96, 0.25, -0.26, 0.97, 0, 0);
+}
+
+.foto2 {
+    position: relative;
+    width: 230px;
+    height: 230px;
+    left: 100px;
+    bottom: 588px;
+}
+
+.retangulo2 {
+    position: relative;
+    width: 230px;
+    height: 230px;
+    left: 323px;
+    bottom: 600px;
+    transform: rotate(1.58rad);
+}
+
+.foto3 {
+    position: relative;
+    width: 230px;
+    height: 230px;
+    bottom: 460px;
+    right: 100px;
+}
+
+.retangulo3 {
+    position: relative;
+    width: 230px;
+    height: 230px;
+    left: 123px;
+    bottom: 474px;
+    transform: rotate(1.56rad);
+}
