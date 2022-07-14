@@ -1,7 +1,5 @@
 .me {
-    background-color: white;
-    width: 100%;
+    background-image: linear-gradient(to top, rgb(247, 174, 174), rgba(230, 230, 84, 0.699));
     height: 100vh;
-    margin-top: -16px;
 }
 
