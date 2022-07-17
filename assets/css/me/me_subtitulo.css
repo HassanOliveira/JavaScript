@@ -1,18 +1,15 @@
 .subtitulo {
     /* ME */
     position: relative;
-    font-family: 'Bungee Shade';
+    font-family: 'Poiret One', cursive; 
     font-style: normal;
-    font-weight: 400;
-    font-size: 300px;
-    line-height: 360px;
+    font-weight: 40vh;
+    font-size: 30vh;
     display: flex;
     align-items: center;
     text-align: center;
-    color: rgba(228, 96, 96, 0.84);
-    margin-left: 220px;
-}
-
-.subtitulo:active {
-    text-decoration: none;
+    margin-left: 21vh;
+    color: rgba(255, 255, 255, 0.849);
+    text-shadow: 0 0 1px rgb(0, 0, 0);
+    filter: drop-shadow(30px 15px 6px rgba(0, 0, 0, 0.7));
 }

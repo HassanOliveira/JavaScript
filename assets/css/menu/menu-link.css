@@ -1,14 +1,5 @@
 .menu__link {
-    color: #0aff53 !important;
-    margin-right: 1.25rem !important;
-    text-decoration: none !important;
-}
-
-.menu__link.ativo {
-    color: #0aff53 !important;
-    font-weight: bolder !important;
-}
-
-.menu__link:hover {
-    font-weight: bold !important;
+    position: relative;
+    border-radius: 18px;
+    padding: 18px;
 }

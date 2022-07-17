@@ -1,6 +1,9 @@
 .menu {
-    position:fixed;
+    position: fixed;
     top: 50%;
     transform: translate(0%, -50%);
-    padding-left: 2rem;
+    border-radius: 15px;
+    margin-left: 2em;
+    background-color: rgba(255, 255, 255, 0.329);
+    transition-delay: 1s;
 }

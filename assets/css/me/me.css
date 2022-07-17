@@ -1,5 +1,12 @@
 .me {
-    background-image: linear-gradient(to top, rgb(247, 174, 174), rgba(230, 230, 84, 0.699));
+    background-color: #0000008c;
+    background-image: url(/assets/img/danilo-alvesd-dNJMidYNe78-unsplash.jpg);
+    background-size: contain;
+    background-attachment: fixed;
+    background-blend-mode: multiply;
+    background-position-x: -30em;
+    background-position-y: center;
+    background-size: 140%;
     height: 100vh;
 }
 

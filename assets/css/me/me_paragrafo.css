@@ -1,17 +1,17 @@
 .paragrafo {
-    position: relative;
     display: inline-block;
-    width: 660px;
-    height: 649px;
+    width: 70vh;
+    height: 50vh;
     left: 200px;
-    font-family: 'Papyrus';
+    font-family: 'Wire One', sans-serif;
     font-style: normal;
     font-weight: 400;
-    font-size: 30px;
-    line-height: 47px;
+    font-size: 40px;
+    line-height: 60px;
     display: flex;
     align-items: center;
     text-align: justify;
-    color: #000000;
-
+    color: #ffffff;
+    margin-left: 21vh;
+    margin-top: 8vh;
 }
